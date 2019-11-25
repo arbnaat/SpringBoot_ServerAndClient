@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sovanm.microservice1.microservice1.Microservice1ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.135 s - in com.sovanm.microservice1.microservice1.Microservice1ApplicationTests

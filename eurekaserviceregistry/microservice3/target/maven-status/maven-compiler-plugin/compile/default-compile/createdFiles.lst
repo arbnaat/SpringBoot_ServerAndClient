@@ -1,0 +1,4 @@
+com\sovanm\microservice3\microservice3\Microservice3Application.class
+com\sovanm\microservice3\microservice3\controller\FeignEmployeeInfoController.class
+com\sovanm\microservice3\microservice3\controller\EmployeeInfo.class
+com\sovanm\microservice3\microservice3\controller\EmployeeServiceProxy.class
